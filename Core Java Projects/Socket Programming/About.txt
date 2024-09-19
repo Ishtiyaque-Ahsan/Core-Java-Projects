@@ -1,0 +1,7 @@
+Create 3 files as File1, file2, File3 Having same text content.
+
+create a file FileS having a word whose frequency is to be measured in those 3 files.
+
+Client will send contents of these files to server.
+
+Server will analyse that data and will return frequency of the word written in FileS in those 3 files File2, File2, File3.
